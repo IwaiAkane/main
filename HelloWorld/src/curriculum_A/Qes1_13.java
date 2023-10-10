@@ -172,7 +172,7 @@ public class Qes1_13 {
 		//好きな食べ物はオムライスです
 		//BMIは22.6です
 		
-		name = "鈴木一郎";
+		name = "鈴木ゆり";
 		age = 24;
 		height = 168.5;
 		weight = 64.2;
