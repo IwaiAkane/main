@@ -93,7 +93,7 @@ public class Qes1_13 {
 		ch = 'a';
 
 		// 文字列型
-		st = "ハロー";
+		st = "こんにちは";
 
 		// ブーリアン型
 		bl = true;
