@@ -137,7 +137,7 @@ public class Qes1_13 {
 		int age = 18;
 		double height = 170.5;
 		double weight = 62.2;
-		String food = "寿司";
+		String food = "肉";
 		
 		System.out.println("初めまして"+ name + "です");
 		System.out.println("年齢は" + age + "歳です");
