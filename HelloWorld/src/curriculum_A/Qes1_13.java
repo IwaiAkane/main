@@ -90,10 +90,10 @@ public class Qes1_13 {
 		dl = 10.5;
 
 		// 文字型
-		ch = 'a';
+		ch = 'b';
 
 		// 文字列型
-		st = "こんにちは";
+		st = "ニーハオ";
 
 		// ブーリアン型
 		bl = true;
@@ -125,7 +125,7 @@ public class Qes1_13 {
 
 		int num= 20;
 		int num1=23;
-		System.out.println("ハローJAVA"+(num+num1));
+		System.out.println("こんにちはJAVA"+(num+num1));
 		
 		
 		// 問題6
@@ -137,7 +137,7 @@ public class Qes1_13 {
 		int age = 18;
 		double height = 170.5;
 		double weight = 62.2;
-		String food = "肉";
+		String food = "うどん";
 		
 		System.out.println("初めまして"+ name + "です");
 		System.out.println("年齢は" + age + "歳です");
@@ -172,11 +172,11 @@ public class Qes1_13 {
 		//好きな食べ物はオムライスです
 		//BMIは22.6です
 		
-		name = "鈴木ゆり";
+		name = "藤岡なな";
 		age = 24;
 		height = 168.5;
 		weight = 64.2;
-		food = "オムライス";
+		food = "ラーメン";
 		height2 = 1.685;
 		bmi = weight/(height2*height2);
 		
@@ -220,7 +220,7 @@ public class Qes1_13 {
 		//問題11
 		//8で使用した【年齢・身長・体重】を文字列型に型変換し繋げて出力してください
 
-		age = 24;
+		age = 22;
 		height = 168.5;
 		weight = 64.2;
 		
